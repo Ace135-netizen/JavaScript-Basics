@@ -1,4 +1,4 @@
-const { reverse } = require("dns");
+
 
 let myfirstname = 'Charles ';
 let mylastname = 'Chukwuma'
